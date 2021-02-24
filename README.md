@@ -1,4 +1,4 @@
-camunda Consulting Examples
+Camunda Consulting Examples
 ===========================
 
 This repository contains examples, patterns, code snippets and demo applications build by the camunda consulting team
